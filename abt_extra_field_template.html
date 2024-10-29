@@ -1,0 +1,12 @@
+<h3>Author Based Twitter Widget</h3>
+<table class="form-table">
+	<tr>
+		<th><label for="twitter">Twitter</label></th>
+		<td>
+			<input type="text" name="abt_twitter" id="abt_twitter" value="<?php echo esc_attr( get_the_author_meta( 'abt_twitter', $user->ID ) ); ?>" class="regular-text" /><br />
+			<span class="description">Insert your twitter screen name if you want to have your tweets in a widget in your articles and posts.</span>
+                        <br />
+                        <b></b>
+		</td>
+	</tr>
+</table>

@@ -1,0 +1,64 @@
+/* 
+    Document   : abt_style
+    Created on : Aug 22, 2010, 1:34:00 PM
+    Author     : Tommy Stigen Olsen
+    Description:
+        Any CSS related to the widget templates can be placed here
+        This CSS will be included in blog posts.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.abt-profile_top
+{
+    background-color:#e3e8e9;
+    font-family: 'Helvetica Neue',Arial,SansSerif;
+}
+/*
+
+
+    Tweet element based styles
+
+*/
+.abt_outer_element1
+{
+
+    font-family: 'Helvetica Neue',Arial,SansSerif;
+    font-size: 10px;
+
+    margin: 2px;
+    padding: 4px;
+
+    background-color:#f3f4f7;
+}
+.abt_inner_element1_text
+{
+    font-size: 12px;
+}
+.abt_inner_element1_stat
+{
+    font-size: 9px;
+    font-weight: 900;
+}
+.abt_outer_element2
+{
+
+    font-family: 'Helvetica Neue',Arial,SansSerif;
+    font-size: 10px;
+
+    margin: 2px;
+    padding: 4px;
+
+    background-color:#fafafa;
+}
+.abt_inner_element2_text
+{
+    font-size: 12px;
+}
+.abt_inner_element2_stat
+{
+    font-size: 9px;
+    font-weight: 900;
+}
